@@ -17,7 +17,7 @@ INTRODUCTION
 PUZZLE #1 
 YOU CRASH INTO A CABINET AND AN ENVELOPE LANDS ON YOUR HEAD. YOU DECIDE TO TAKE IT WITH YOU AS YOU CANNOT READ IT IN THE DARK. MAYBE IT WILL BE OF HELP LATER ON. YOU CATCH A SMALL GLIMPSE OF THE FOAM PIT. BUT THERES A GATE. YOU QUICKLY CLIMB OVER THE GATE AND FALL DIRECTLY INTO THE FOAM PIT. SEARCH FOR YOUR FLASHLIGHT. > 
 > enter a code found in the flashlights battery area (51246)
-Materials: Foam Pit and Envelope and Flashlight that leads to next puzzle.
+> Materials: Foam Pit and Envelope and Flashlight that leads to next puzzle.
 
 PUZZLE #2 
 <YOU FOUND YOUR FLASHLIGHT! YOU TURN IT ON AND FIND YOUR FRIENDS. YOU ALL IMMEDIATELY START RUNNING TO THE MAIN ENTRANCE WITH YOUR FLASHLIGHT AS YOUR GUIDE. BUT THE EXIT ISN’T THERE. NOTHING IS LIKE WHAT YOU REMEMBERED. THIS IS NO LONGER THE TRAMPOLINE PLACE. YOU SCREAM FOR HELP BUT THE ECHOES JUST BOUNCE INTO THE VAST DISTANCE. YOU REMEMBER YOU PICKED UP SOME SORT OF ENVELOPE. YOU OPEN IT AND FIND A LAB REPORT. WHAT CAN THIS MEAN?>
@@ -31,13 +31,13 @@ PERSON 2: “WAS THE PIZZA THAT STALE?”
 PERSON 3: “IT’S NOT MINE…” 
 WHY IS THERE IS A TOOTH IN THE PIZZA? EXAMINE THE TOOTH. WHAT CAN THIS MEAN?  ENTER YOUR FINDINGS BELOW. MAYBE YOU WILL NEED THIS INFO FOR LATER. >
 THE TOOTH HAS 5 ANIMALS ON IT, A LION, A MOUSE, A LADY BUG, A BIRD AND A COYOTE
-^^order of food chain, higher one being listed first
+> order of food chain, higher one being listed first
 Material: Flashlight, a paper cutout of a big tooth.
 
 PUZZLE #4
 <YOU DECIDE IT WOULD BE BEST TO THROW THE PIZZA AWAY AND RESUME LOOKING FOR A WAY TO LEAVE THE PARK. YOU ALL GET UP TO LEAVE, BUT AS YOU DO, THE PARKS’ LIGHTS TURN RED. YOU LOOK CLOSELY AT THE WALL. THERE IS SOMETHING WRITTEN THERE. IT'S YOUR NAME. AND NOT ONLY YOURS, BUT YOUR FRIENDS AS WELL.  > “
  You count the number of consonants in each player's name.
-***need to add some sort of hint in the paragraph… if possible, in the word “name”, bold/capitalize “n” and “m” to show that they are consonants
+> ***need to add some sort of hint in the paragraph… if possible, in the word “name”, bold/capitalize “n” and “m” to show that they are consonants
 Ex.
 “Tharniha” has thrnh as the consonants so that is “5”
 write in the order of player 1, 2, 3, 4, 5
@@ -53,8 +53,8 @@ Five:
 > Player 2: ^^^^^^, and so on.
   
 PUZZLE #5 
-<YOU FINALLY OPEN THE DOOR. AS YOU WALK THROUGH A DESERTED HALLWAY, YOU NOTICE A PATTERN OF LIGHTS PLAY WITH EACH STEP YOU TAKE. WHEN YOU GET TO THE END OF THE HALL, YOU SEE A SCREEN LIGHT UP THE AREA. IT SEEMS TO HAVE A LIST OF COLORS.>
- it plays a pattern, and you copy it. 3 levels, each getting harder as it goes. It's basically just a memory puzzle
+YOU FINALLY OPEN THE DOOR. AS YOU WALK THROUGH A DESERTED HALLWAY, YOU NOTICE A PATTERN OF LIGHTS PLAY WITH EACH STEP YOU TAKE. WHEN YOU GET TO THE END OF THE HALL, YOU SEE A SCREEN LIGHT UP THE AREA. IT SEEMS TO HAVE A LIST OF COLORS.>
+> it plays a pattern, and you copy it. 3 levels, each getting harder as it goes. It's basically just a memory puzzle
 
 LVL 1: red, red, green, blue, purple:
 System.out. Println (“RED”);
